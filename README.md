@@ -1,4 +1,4 @@
-This has been deprecated.
+This has been deprecated. <br>
 Still a useable base.
 
 View new repo [here](https://github.com/NetCents/WordpressPlugin) 
