@@ -1,5 +1,5 @@
 This has been deprecated.
-Still a useable.
+Still a useable base.
 
 View new repo [here](https://github.com/NetCents/WordpressPlugin) 
 
